@@ -1,0 +1,8 @@
+# Owners of the GKE provider sub-folder. Full review/approval authority for
+# changes under cloud-providers/gke/ (see GOVERNANCE.md).
+approvers:
+- liu-cong
+- yangligt2
+reviewers:
+- liu-cong
+- yangligt2
