@@ -1,9 +1,6 @@
-# See https://go.k8s.io/owners for format documentation
-
 approvers:
+- chcost
+- robertgshaw2-redhat
+- ahg-g
+- davidgs
 - liu-cong
-- yangligt2
-
-reviewers:
-- liu-cong
-- yangligt2

@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing. This repository hosts community-owned infrastructure provisioning guides, tooling, and cluster readiness checks for [llm-d](https://github.com/llm-d/llm-d).
 
-Please read the [Code of Conduct](CODE_OF_CONDUCT.md). Maintainers are listed in [MAINTAINERS.md](MAINTAINERS.md) and approvers and reviewers in [OWNERS](OWNERS).
+Please read the [Code of Conduct](CODE_OF_CONDUCT.md). Maintainers are listed in [MAINTAINERS.md](MAINTAINERS.md) and approvers in [OWNERS](OWNERS).
 
 ## Ownership Model
 

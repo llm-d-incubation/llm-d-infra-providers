@@ -6,10 +6,13 @@ Maintainers own the direction of this repository and review and approve pull req
 
 | Name | Employer | GitHub ID |
 | --- | --- | --- |
+| Carlos Costa | IBM | @chcost |
+| Robert Shaw | Red Hat | @robertgshaw2-redhat |
+| Abdullah Gharaibeh | Google | @ahg-g |
+| David Simmons | Red Hat | @davidgs |
 | Cong Liu | Google | @liu-cong |
-| Yang Li | Google | @yangligt2 |
 
-The machine-readable approver and reviewer lists used by automation live in [OWNERS](OWNERS).
+The machine-readable approver list used by automation lives in [OWNERS](OWNERS); the two files are kept in sync.
 
 ## Escalation
 
