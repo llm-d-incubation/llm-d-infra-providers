@@ -1,0 +1,9 @@
+# See https://go.k8s.io/owners for format documentation
+
+approvers:
+- liu-cong
+- yangligt2
+
+reviewers:
+- liu-cong
+- yangligt2
